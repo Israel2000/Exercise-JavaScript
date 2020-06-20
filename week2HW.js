@@ -10,3 +10,4 @@
     6. Use any High methods order: .forEach, .fiter(), .reduce(). create arrays.
 */
 /***** Answer Question belew here **** */
+
